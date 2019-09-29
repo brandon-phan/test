@@ -1,0 +1,5 @@
+image: "python:3"
+
+build:
+  script:
+    - python hello.py
